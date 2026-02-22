@@ -1,3 +1,16 @@
+
+# 📊 Dashboard de Vendas: Análise de Assinaturas e Planos
+
+```text
+======================================================================
+PROJETO: Criando um Dashboard de Vendas do Xbox com Excel e Google Planilha
+======================================================================
+Analista de Dados: Paulo Roberto
+Tecnologia: Excel e Google Planilha
+Metodologia: ABCDE, Data View & Big Numbers
+Contexto: Bootcamp Klabin - Excel e Power BI Dashboards
+======================================================================
+
 # 📊 Dashboard de Vendas: Análise de Assinaturas e Planos
 
 ## 📝 Descrição do Projeto

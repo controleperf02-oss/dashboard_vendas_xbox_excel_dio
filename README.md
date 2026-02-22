@@ -1,7 +1,3 @@
-
-# 📊 Dashboard de Vendas: Análise de Assinaturas e Planos
-
-```text
 ======================================================================
 PROJETO: Criando um Dashboard de Vendas do Xbox com Excel e Google Planilha
 ======================================================================
@@ -47,6 +43,11 @@ O dashboard foi construído para responder aos seguintes indicadores-chave (KPIs
 
 ### 🔗 Visualização Online
 *   **[Acesse o Dashboard Interativo (Google Planilhas)](https://docs.google.com)**
+
+### 📂 Arquivos do Repositório
+*   **Planilha Principal:** [Meu_dashboard_xbox_finalizado.xlsx](data/Meu_dashboard_xbox_finalizado.xlsx)
+*   **Base de Dados (TXT):** [desafio_vendas_xbox_excel_dio.txt](data/desafio_vendas_xbox_excel_dio.txt)
+*   **Imagens/Prints:** [Pasta de Documentação](docs/)
 
 ### 📂 Arquivos do Repositório
 *   **Planilha Principal:** [Meu_dashboard_xbox_finalizado.xlsx](data/Meu_dashboard_xbox_finalizado.xlsx)

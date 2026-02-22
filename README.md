@@ -28,10 +28,10 @@ Durante o desenvolvimento, foram aplicados conceitos fundamentais de análise de
 *   **Gráficos Dinâmicos:** Utilização de filtros visuais para uma experiência interativa.
 *   **Estilização:** Aplicação de design **UI/UX** em planilhas para melhorar a legibilidade.
 
-## 📑 Documentação Complementar e Visualização
+📑 **Documentação Complementar e Visualização**
 **Nota de Compatibilidade:** Este projeto foi concebido no **Google Planilhas**. Para garantir a melhor **experiência visual e interatividade** original, utilize o link abaixo:
 
-🔗 [Acesse o Dashboard Interativo (Google Sheets)](https://docs.google.com)
+🔗 [Acesse o Dashboard Interativo (Google Planilha)](https://docs.google.com/spreadsheets/d/1eD4w4LCUOkbKvtNEJDXhn1GIXhAWYNppGl6-xa7nA9M/edit?gid=335052533#gid=335052533)
 
-## 📸 Preview do Dashboard
+📸 **Preview do Dashboard**
 ![Screenshot do Dashboard](docs/google_planilha.png)

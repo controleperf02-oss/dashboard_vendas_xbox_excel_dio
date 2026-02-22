@@ -34,4 +34,5 @@ Durante o desenvolvimento, foram aplicados conceitos fundamentais de análise de
 🔗 [Acesse o Dashboard Interativo (Google Planilha)](https://docs.google.com/spreadsheets/d/1eD4w4LCUOkbKvtNEJDXhn1GIXhAWYNppGl6-xa7nA9M/edit?gid=335052533#gid=335052533)
 
 📸 **Preview do Dashboard**
-![Screenshot do Dashboard](docs/google_planilha.png)
+![Screenshot do Dashboard](DOCS/google_planilha.png)
+

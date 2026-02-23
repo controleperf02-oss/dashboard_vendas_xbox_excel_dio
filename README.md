@@ -32,7 +32,7 @@ Durante o desenvolvimento, foram aplicados conceitos fundamentais de análise de
 
 **Nota de Compatibilidade:** Este projeto foi concebido no **Google Planilhas**. Para garantir a melhor **experiência visual e interatividade** original, utilize o link abaixo:
 
-*   🔗 **[Acesse o Dashboard Interativo (Google Planilha)](https://docs.google.com)**
+*   🔗 **[Acesse o Dashboard Interativo (Google Planilha)](https://docs.google.com/spreadsheets/d/1eD4w4LCUOkbKvtNEJDXhn1GIXhAWYNppGl6-xa7nA9M/edit?gid=335052533#gid=335052533)**
 
 ---
 

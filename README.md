@@ -30,20 +30,20 @@ Durante o desenvolvimento, foram aplicados conceitos fundamentais de análise de
 
 📑 **Documentação Complementar e Visualização**
 
-**Nota de Compatibilidade:** Este projeto foi concebido no **Google Planilhas**. Para garantir a melhor **experiência visual e interatividade** original, utilize o link abaixo:
-
-*   🔗 **[Acesse o Dashboard Interativo (Google Planilha)](https://docs.google.com/spreadsheets/d/1eD4w4LCUOkbKvtNEJDXhn1GIXhAWYNppGl6-xa7nA9M/edit?gid=335052533#gid=335052533)**
-
----
-
 ### 📂 Arquivos e Evidências
 *   📊 **Planilha Excel:** [Meu_dashboard_xbox_finalizado.xlsx](DATA/Meu_dashboard_xbox_finalizado.xlsx)
 *   📄 **Descrição do Projeto (TXT):** [desafio_vendas_xbox_excel_dio.txt](DOCS/desafio_vendas_xbox_excel_dio.txt)
 
 ### 📸 Visualização (Prints)
 
+#### Dashboard no Excel
+![Preview Excel](DOCS/print_excel.png)
+
 #### Dashboard no Google Planilhas
 ![Preview Google Planilhas](DOCS/google_planilha.png)
 
-#### Dashboard no Excel
-![Preview Excel](DOCS/print_excel.png)
+**Nota de Compatibilidade:** Este projeto foi concebido no **Google Planilhas**. Para garantir a melhor **experiência visual e interatividade** original, utilize o link abaixo:
+
+*   🔗 **[Acesse o Dashboard Interativo (Google Planilha)](https://docs.google.com/spreadsheets/d/1eD4w4LCUOkbKvtNEJDXhn1GIXhAWYNppGl6-xa7nA9M/edit?gid=335052533#gid=335052533)**
+
+---
